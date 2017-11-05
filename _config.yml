@@ -22,13 +22,15 @@ url: "http://sarfsc.ru"
 twitter_username: SaratovFreeSoft
 github_username: sarfsc
 host: tor
+encode: utf8
 
 show_downloads: "true" # to indicate whether to provide a download URL]
 #google_analytics: [Your Google Analytics tracking ID]
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
+#theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
