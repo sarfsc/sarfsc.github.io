@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: О нас и наших контактах
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Наш адрес: Саратов, ул. Мичурина 155 (угол, Московская 29). Там сейчас идёт ремонт.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+* Публичный номер телефона "Центра СПО": +7 (8452) 98-78-18.
+* Организация на гитхабе: https://github.com/sarfsc
+* Группа вконтакте: https://vk.com/sarfsc
