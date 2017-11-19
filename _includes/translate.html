@@ -1,0 +1,14 @@
+{% comment %}
+This include allows to translate the text by using strings in _data/locales/[lang].yml
+This include can be called with two parameters:
+ - include.text: text to be translated.
+ - include.lang: lang to use for translation.
+{% endcomment %}
+
+{% if site.data.locales[page.lang][include.text] %}
+  {% assign text_to_be_translated = site.data.locales[page.lang][include.text] %}
+{% else %}
+  {% assign text_to_be_translated = site.data.locales["ru"][include.text] %}
+{% endif %}
+
+{{ text_to_be_translated }}
