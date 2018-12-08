@@ -5,8 +5,12 @@ permalink: /en/about/
 lang: en
 ---
 
-Our address: Saratov, Michurina st. 155 (Moskovskaya 29).
+Our address: {{ site.sarfsc-address-en }}.
 
-* Public phone of "Free Software Center": +7 (8452) 98-78-18.
-* Organization on github: <a href="https://github.com/sarfsc">https://github.com/sarfsc</a>
-* VK group: <a href="https://vk.com/sarfsc">https://vk.com/sarfsc</a>
+* Phones of {{ site.sarfsc-name-short-en }}:
+  * City: {{ site.sarfsc-phone }}
+  * Mobile: {{ site.sarfsc-mobile }}
+* Organization on GitHub: <a href="{{ site.sarfsc-gh }}">{{ site.sarfsc-gh }}</a>
+* VK group: <a href="{{ site.sarfsc-vk }}">{{ site.sarfsc-vk }}</a>
+* Working hours: 10:00-18:00 (UTC+4) Monday to Friday.
+
