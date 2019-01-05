@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us and our contacts
+title: Contacts
 permalink: /en/about/
 lang: en
 ---

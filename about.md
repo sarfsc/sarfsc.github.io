@@ -1,6 +1,6 @@
 ---
 layout: page
-title: О нас и наших контактах
+title: Контакты
 permalink: /about/
 lang: ru
 ---
