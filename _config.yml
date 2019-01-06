@@ -25,3 +25,25 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - makefile
+
+sarfsc-mobile: "+7 917 208-78-18"
+sarfsc-phone: "+7 8452 98-78-18"
+sarfsc-address: "г. Саратов, ул. Мичурина, д. 155 (угол Московская, д. 29), вход с улицы Мичурина"
+sarfsc-address-en: "Saratov, Michurina 155 str. (Moskovskaya 29 str. crossroad), the entrance is from Michurina str."
+
+sarfsc-name-long: |
+  Саратовская региональная общественная организация "Саратовский центр развития свободного программного обеспечения"
+sarfsc-name-long-en: |
+  Saratov Regional Community Organization "Saratov Center for Free Software Development"
+sarfsc-name-short: |
+  СРОО "Саратовский центр СПО"
+sarfsc-name-short-en: |
+  SRCO "Saratov Free Software Center"
+
+sarfsc-gh: "https://github.com/sarfsc/"
+sarfsc-vk: "https://vk.com/sarfsc/"
+

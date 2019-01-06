@@ -1,12 +1,16 @@
 ---
 layout: page
-title: О нас и наших контактах
+title: Контакты
 permalink: /about/
 lang: ru
 ---
 
-Наш адрес: Саратов, ул. Мичурина 155 (угол, Московская 29). Там сейчас идёт ремонт.
+Наш адрес: {{ site.sarfsc-address }}
 
-* Публичный номер телефона "Центра СПО": +7 (8452) 98-78-18.
-* Организация на гитхабе: <a href="https://github.com/sarfsc">https://github.com/sarfsc</a>
-* Группа вконтакте: <a href="https://vk.com/sarfsc">https://vk.com/sarfsc</a>
+* Телефоны {{ site.sarfsc-name-short }}:
+  * Городской: {{ site.sarfsc-phone }}.
+  * Мобильный: {{ site.sarfsc-mobile }}.
+* Организация на GitHub: <a href="{{ site.sarfsc-gh }}">{{ site.sarfsc-gh }}</a>
+* Группа ВКонтакте: <a href="{{ site.sarfsc-vk }}">{{ site.sarfsc-vk }}</a>
+* Часы работы: 10:00-18:00 (UTC+4) с понедельника по пятницу.
+
