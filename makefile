@@ -12,6 +12,9 @@ test: Gemfile
 build: Gemfile
 	bundle exec jekyll build -V --future
 
+install:
+	bundle install
+
 clean:
 	git clean -fdx
 
