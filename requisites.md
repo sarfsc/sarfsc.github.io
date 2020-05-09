@@ -3,6 +3,7 @@ layout: page
 title: Платёжные реквизиты
 permalink: /requisites/
 lang: ru
+exclude: true
 ---
 
 * **Наименование**: Перевод организации
